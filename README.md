@@ -76,7 +76,28 @@ This repo includes hands-on practice with:
 - ✔ Error Handling  
 - ✔ Repository Pattern (Simple Version)  
 
+## 🎯 My Goal
+
+I am building these projects as part of my **60-day consistency challenge** to become a strong **Full Stack Web Developer**.  
+Every day, I learn → practice → build → push code to GitHub.
+
+This repository showcases my progress and dedication.
+
 ---
 
-## 📦 Folder Structure Example
+## 📬 Contact
+
+If you want to connect or discuss projects:
+
+**Name:** Ajit Sangmesh Yalasangi  
+**GitHub:** https://github.com/ajityalasangi  
+**LinkedIn:** https://www.linkedin.com/in/ajit-yalasangi-517329276/  
+
+---
+
+## ⭐ Support
+
+If you find this helpful or interesting, please ⭐ star the repository!
+
+---
 
